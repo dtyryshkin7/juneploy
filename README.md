@@ -1,22 +1,29 @@
-# Marchaton #1 - The Awakening
+# Marchaton - The Space Infrastructure Journey
 
 ## Introduction
 
-First episode of Marchaton is an engaging hands-on workshop designed to introduce you to collaborative coding and infrastructure management using Infrastructure as Code.
+Welcome to Marchaton, an epic three-part space journey that will take you from Earth-based development to galactic infrastructure management! Through this series of hands-on workshops, you'll learn collaborative coding and infrastructure management
 
 ## Learning Objectives
 
-Collaborative Coding on GitHub:
-   - Repository Setup: Learn how to create and configure repositories on GitHub.
-   - Branching: Explore the importance of branching and how to create and switch between branches.
-   - Pull Requests and Merge: Master the process of making changes, committing them, and creating pull requests for collaborative review.
+### Collaborative Development
+- Create and configure GitHub repositories
+- Master branching and pull request workflows
+- Implement effective code review practices
 
-Terraform for Azure:
-   - Setting Up Terraform: Install and configure Terraform on your local machine.
-   - Target Platform Integration: Understand how to configure Terraform to work with target platform (Azure).
-   - Defining and creating resources: Learn how to write Terraform configurations to create and manage a resource group in Azure.
+### Infrastructure as Code Fundamentals
+- Set up local Terraform environment
+- Configure Azure integration
+- Create and manage basic cloud resources
+- Deploy networks and virtual machines
 
-By the end of this workshop, you will have a solid understanding of collaborative coding workflows on GitHub, as well as practical experience in using Terraform to manage cloud infrastructure on Azure. You'll leave with the confidence to contribute to projects, manage code collaboratively, and automate resource provisioning.
+### Advanced Infrastructure Management
+- Implement disaster recovery procedures
+- Master state management and version control
+- Design scalable infrastructure using modules
+- Optimize configurations for reusability
+
+By the end of this workshop series, you will have progressed from basic collaborative coding to advanced infrastructure management, gaining practical experience in using Terraform with Azure cloud infrastructure. You'll be equipped with the skills to contribute to projects, manage code collaboratively, and implement sophisticated infrastructure automation.
 
 ## Challenges
 - Challenge 1: **[Get onboard, the spaceship is taking off!](Challenges/Challenge-01.md)**
