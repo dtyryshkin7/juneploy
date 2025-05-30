@@ -16,8 +16,6 @@ By the end of this workshop, participants will be able to:
 - Learn how Terraform integrates with change management processes to ensure controlled and documented infrastructure changes.
 
 ## Challenges
-- Challenge 1: **[Galactic foundations](Challenges/Challenge-01.md)**
-   - Recalling the fundamentals.
 - Challenge 2: **[Connection established](Challenges/Challenge-02.md)**
    - First and foremost - network.
 - Challenge 3: **[As have no premises, lets go cloud](Challenges/Challenge-03.md)**
