@@ -1,6 +1,6 @@
-# Challenge 02 - Connection established.
+# Challenge 04 - Connection established.
 
-[Previous Challenge >](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[Previous Challenge >](Challenge-03.md) - [Home](../README.md) - [Next Challenge >](Challenge-05.md)
 
 ## Introduction
 
@@ -23,4 +23,4 @@ Your mission, should you choose to accept it, involves the foundational step in 
 
 - [Create Azure Virtual Network and Subnet with Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet)
 
-[Previous Challenge >](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[Previous Challenge >](Challenge-03.md) - [Home](../README.md) - [Next Challenge >](Challenge-05.md)

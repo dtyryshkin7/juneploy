@@ -1,6 +1,6 @@
-# Challenge 02 - Galactic Terraform Cloud
+# Challenge 08 - Galactic Terraform Cloud
 
-[< Previous Challenge](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[< Previous Challenge](Challenge-07.md) - [Home](../README.md) - [Next Challenge >](Challenge-09.md)
 
 ## Introduction
 
@@ -30,4 +30,4 @@ The crew realizes their local Terraform setup is vulnerable to cosmic anomalies.
 - [Login to HCP Terraform via CLI](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-login)
 - [Migrate state to HCP Terraform](https://developer.hashicorp.com/terraform/tutorials/cloud/cloud-migrate)
 
-[< Previous Challenge](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[< Previous Challenge](Challenge-07.md) - [Home](../README.md) - [Next Challenge >](Challenge-09.md)

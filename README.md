@@ -1,8 +1,10 @@
-# Marchaton - The Space Infrastructure Journey
+# Juneploy - The Space Infrastructure Journey
 
 ## Introduction
 
-Welcome to Marchaton, an epic three-part space journey that will take you from Earth-based development to galactic infrastructure management! Through this series of hands-on workshops, you'll learn collaborative coding and infrastructure management
+Welcome to Juneploy, an epic three-part space journey that will take you from Earth-based development to galactic infrastructure management! Through this series of hands-on workshops, you'll learn collaborative coding and infrastructure management
+
+<img src="images/spaceship-takeoff.png" width="512"/>
 
 ## Learning Objectives
 
@@ -48,7 +50,8 @@ By the end of this workshop series, you will have progressed from basic collabor
 ## Contributors
 - Dmitrii Tyryshkin
 - Christoph Günther
-- GPT-4o
+- GitHub Copilot
+- GPT-4o, Claude Sonnet 3.5
 
 ## Inspiration
 - [Microsoft WhatTheHack](https://microsoft.github.io/WhatTheHack/)

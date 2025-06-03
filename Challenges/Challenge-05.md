@@ -1,6 +1,6 @@
-# Challenge 03 - As have no premises, lets go cloud
+# Challenge 05 - As have no premises, lets go cloud
 
-[Previous Challenge >](Challenge-02.md) - [Home](../README.md) - [Next Challenge >](Challenge-04.md)
+[Previous Challenge >](Challenge-04.md) - [Home](../README.md) - [Next Challenge >](Challenge-06.md)
 
 ## Introduction
 
@@ -28,4 +28,4 @@ In this phase of our interstellar mission, you will be tasked with deploying the
 - [What are Terraform Data Sources](https://developer.hashicorp.com/terraform/language/data-sources)
 - [Azure Key Vault Secret as Terraform Data Source](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/key_vault_secret)
 
-[Previous Challenge >](Challenge-02.md) - [Home](../README.md) - [Next Challenge >](Challenge-04.md)
+[Previous Challenge >](Challenge-04.md) - [Home](../README.md) - [Next Challenge >](Challenge-06.md)

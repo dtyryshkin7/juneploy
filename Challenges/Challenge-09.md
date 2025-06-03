@@ -1,6 +1,6 @@
-# Challenge 03 - Modularization for Future Missions
+# Challenge 09 - Modularization for Future Missions
 
-[< Previous Challenge](Challenge-02.md) - [Home](../README.md)
+[< Previous Challenge](Challenge-08.md) - [Home](../README.md)
 
 ## Introduction
 
@@ -11,9 +11,9 @@ To achieve this, the crew must refactor their monolithic Terraform configuration
 
 ## Description
 
-- Start with defining a VM module by reusing [VM module example](../files/modules/vm/)
+- Start with defining a VM module by reusing [VM module example](/Files/Challenge-06/modules/vm/)
 - Refactor your Terraform configurations to use the module.
-- Define VNET module on your own or use the [example](../files/modules/vnet/)
+- Define VNET module on your own or use the [example](/Files/Challenge-06/modules/vnet/)
 - ***HINT*** When using VNET module, Subnet ID should be defined as an output variable consumed by VM NIC. You also might run into a state inconsistency issue when using VNET module, that **can be resolved by placing all resources in a different resource group.**
 
 ## Success Criteria
@@ -31,4 +31,4 @@ To achieve this, the crew must refactor their monolithic Terraform configuration
 - [Azure regions list](https://gist.github.com/ausfestivus/04e55c7d80229069bf3bc75870630ec8)
 
 
-[< Previous Challenge](Challenge-02.md) - [Home](../README.md)
+[< Previous Challenge](Challenge-08.md) - [Home](../README.md)

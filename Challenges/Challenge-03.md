@@ -20,17 +20,19 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 
 ## Description
 
-- First, install Terraform on your Codespace using [script](../Files/terraform-install.sh). Ask your Linux-experienced team members on how to run a bash script on a Linux machine.
-- Then, check your access to [Azure Portal](https://portal.azure.com)- you should see "rbhq-inf-marchaton-s" subscription.
-- Configure environment variables in your codespace using provided [values](../Files/envs.md). 
-- Copy [.gitignore](../Files/.gitignore) to the root folder of your repo. That that will make git keep sensitive files away from being commited to the repository.
+- First, install Terraform on your Codespace using [script](../Files/Challenge-03/terraform-install.sh). Ask your Linux-experienced team members on how to run a bash script on a Linux machine.
+- Then, check your access to [Azure Portal](https://portal.azure.com)- you should see "rbhq-inf-juneploy-s" subscription.
+- Configure environment variables in your codespace using provided [values](../Files/Challenge-03/envs.md). 
+- Copy [.gitignore](../Files/Challenge-03/) to the root folder of your repo. That that will make git keep sensitive files away from being commited to the repository.
 - Create an Azure resource group per crew member via Azure Portal. Delete it. Try doing the same via Code. Portal was easier, right? Can you imagine deploying 10 resource groups via portal? And what about code?
+- The subscription is shared. Apart from naming convention, the standard way of doing governance in the cloud is done via tags. Tags are normally consumed by other systems - ITSM, Asset Management, Vulnerability management etc. Feel free to tag your resource group with the tag "owner".
+
   
 ## Success Criteria
 
-- You have a resource group within rbhq-inf-marchaton-s Azure subscription per crew member created via Terraform
+- You have a resource group within rbhq-inf-juneploy-s Azure subscription per crew member created via Terraform
+- All resources groups of your team have "owner" tags with the value of a respective email address.
 - Terraform code of the resource group is available in your personal folder within team crew repository.
-- ***Optional*** If you have spare time, be curious! Try destroying the resource group via terraform, changing its name and see what happends, try deploying several groups at once!
 
 
 > [!WARNING]

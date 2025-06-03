@@ -1,6 +1,6 @@
-# Challenge 04 - Withstanding the storm
+# Challenge 06 - Withstanding the storm
 
-[Previous Challenge >](Challenge-03.md) - [Home](../README.md) 
+[Previous Challenge >](Challenge-05.md) - [Home](../README.md) - [Next Challenge >](Challenge-07.md)
 
 ## Introduction
 
@@ -16,6 +16,7 @@ As you embark on this mission, remember that the key to success lies in your abi
 
 ## Success Criteria
 
+- You asked your coach for a storm simulation
 - You were able to identify the configuration drift against your infrastructure
 - The configuration drift has been remediated and terraform does not show difference anymore.
 
@@ -24,4 +25,4 @@ As you embark on this mission, remember that the key to success lies in your abi
 - [Terraform Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
 - [Automated Drift Detection and Remediation](https://medium.com/@nile.bits/understanding-terraform-drift-detection-and-remediation-b9e7ab2f5ecd#:~:text=Remediating%20Drift%20in%20Terraform&text=There%20are%20two%20primary%20approaches,to%20update%20the%20state%20file.)
 
-[Previous Challenge >](Challenge-03.md) - [Home](../README.md) 
+[Previous Challenge >](Challenge-05.md) - [Home](../README.md) - [Next Challenge >](Challenge-07.md)

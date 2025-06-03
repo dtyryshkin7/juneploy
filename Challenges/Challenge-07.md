@@ -1,6 +1,6 @@
-# Challenge 01 - Consolidate and Stabilize
+# Challenge 07 - Consolidate and Stabilize
 
-[Home](../README.md) - [Next Challenge >](Challenge-02.md)
+[Previous Challenge >](Challenge-06.md) - [Home](../README.md) - [Next Challenge >](Challenge-08.md)
 
 ## Introduction
 
@@ -17,4 +17,4 @@ Your team has been tasked with a critical mission: consolidate all Terraform con
 - provider.tf defined only once.
 - Terraform is initialized in your group folder
 
-[Home](../README.md) - [Next Challenge >](Challenge-02.md)
+[Previous Challenge >](Challenge-06.md) - [Home](../README.md) - [Next Challenge >](Challenge-08.md)
