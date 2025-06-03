@@ -1,6 +1,6 @@
 # Challenge 03 - Code Against the Storm
 
-[< Previous Challenge](Challenge-02.md) - [Home](../README.md)
+[< Previous Challenge](Challenge-02.md) - [Home](../README.md) - [Next Challenge >](Challenge-04.md)
 
 ## Introduction
 
@@ -47,3 +47,7 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 - [Terraform Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
 - [Terraform project structure explained](https://spacelift.io/blog/terraform-files)
 - [Azure Terraform Provider Example - create resource group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs#example-usage)
+
+
+[< Previous Challenge](Challenge-02.md) - [Home](../README.md) - [Next Challenge >](Challenge-04.md)
+

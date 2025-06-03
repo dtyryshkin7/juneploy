@@ -4,7 +4,7 @@
 
 Welcome to Juneploy, an epic three-part space journey that will take you from Earth-based development to galactic infrastructure management! Through this series of hands-on workshops, you'll learn collaborative coding and infrastructure management
 
-<img src="images/spaceship-takeoff.png" width="512"/>
+<img src="Challenges/images/spaceship-takeoff.png" width="512"/>
 
 ## Learning Objectives
 
