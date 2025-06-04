@@ -32,7 +32,7 @@ He knew, there is only way to achieve it - to define Infrastructure as Code.
 
 - You have a resource group within rbhq-inf-juneploy-s Azure subscription per crew member created via Terraform
 - All resources groups of your team have "owner" tags with the value of a respective email address.
-- Terraform code of the resource group is available in your personal folder within team crew repository.
+- Terraform code of the resource group is available in the personal folder of each team member within team crew repository.
 
 
 > [!WARNING]
